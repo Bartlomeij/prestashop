@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-01-11 19:56:47
+<?php /* Smarty version Smarty-3.1.19, created on 2017-01-13 18:35:29
          compiled from "/home/vagrant/Code/prestashop/admin/themes/default/template/controllers/modules/login_addons.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:21444073358768dff22f419-59967145%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '7969bf5073d8323170d0dcfbda2a1d722788cbd0' => 
     array (
       0 => '/home/vagrant/Code/prestashop/admin/themes/default/template/controllers/modules/login_addons.tpl',
-      1 => 1480087984,
+      1 => 1484327934,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_58768dff2b47c6_15634873',
   'variables' => 
   array (
     'add_permission' => 0,
@@ -25,8 +27,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'addons_forgot_password_link' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58768dff2b47c6_15634873',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_58768dff2b47c6_15634873')) {function content_58768dff2b47c6_15634873($_smarty_tpl) {?>
 
