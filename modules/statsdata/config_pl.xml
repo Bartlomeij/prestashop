@@ -2,7 +2,7 @@
 <module>
 	<name>statsdata</name>
 	<displayName><![CDATA[Kopalnia danych dla statystyk]]></displayName>
-	<version><![CDATA[1.6.1]]></version>
+	<version><![CDATA[1.6.2]]></version>
 	<description><![CDATA[Ten moduł musi być włączony jeżeli chcesz używać statystyk.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

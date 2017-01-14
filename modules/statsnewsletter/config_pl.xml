@@ -2,7 +2,7 @@
 <module>
 	<name>statsnewsletter</name>
 	<displayName><![CDATA[Newsletter]]></displayName>
-	<version><![CDATA[1.4.1]]></version>
+	<version><![CDATA[1.4.2]]></version>
 	<description><![CDATA[Dodaje kartę z wykresem rejestracji newslettera w panelu statystyk.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

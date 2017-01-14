@@ -2,7 +2,7 @@
 <module>
 	<name>sekeywords</name>
 	<displayName><![CDATA[Wyszukiwarka sł&oacute;w kluczowych]]></displayName>
-	<version><![CDATA[1.4.0]]></version>
+	<version><![CDATA[1.4.1]]></version>
 	<description><![CDATA[Wyświetla słowa kluczowe, kt&oacute;re doprowadziły użytkownik&oacute;w do witryny.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

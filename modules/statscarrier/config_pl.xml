@@ -2,7 +2,7 @@
 <module>
 	<name>statscarrier</name>
 	<displayName><![CDATA[Rozkład sposobu dostawy]]></displayName>
-	<version><![CDATA[1.4.0]]></version>
+	<version><![CDATA[1.4.1]]></version>
 	<description><![CDATA[Dodaje wykres rozkładu dystrybucji poszczeg&oacute;lnych przewoźnik&oacute;w w panelu statystyk.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>
